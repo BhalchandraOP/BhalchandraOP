@@ -23,10 +23,27 @@ I'm continuously learning, improving my problem-solving skills, and building pro
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/BhalchandraOP" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/bhalchandra-rana" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.dribbble.com/work-bhalchandra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" alt="Dribble" title="Dribble" /> </picture> </a></p>
+
 ### Badges
 
-<a href="https://github.com/BhalchandraOP" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhalchandraOP&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://github.com/BhalchandraOP">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhalchandraOP&layout=compact&langs_count=8&title_color=2563eb&text_color=374151&bg_color=ffffff&hide_border=true&custom_title=Top%20Languages"
+    alt="Top Languages"
+  />
+</a>
+
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/BhalchandraOP/Student-Assignment-Manager" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BhalchandraOP&repo=Student-Assignment-Manager&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/BhalchandraOP/pdf-chatbot-rag" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=BhalchandraOP&repo=pdf-chatbot-rag&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div align="center">
+  <a href="https://github.com/BhalchandraOP/Student-Assignment-Manager">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BhalchandraOP&repo=Student-Assignment-Manager&theme=default&bg_color=ffffff&title_color=2563eb&text_color=374151&icon_color=0d9488&hide_border=true" />
+  </a>
+  <a href="https://github.com/BhalchandraOP/pdf-chatbot-rag">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BhalchandraOP&repo=pdf-chatbot-rag&theme=default&bg_color=ffffff&title_color=2563eb&text_color=374151&icon_color=0d9488&hide_border=true" />
+  </a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
